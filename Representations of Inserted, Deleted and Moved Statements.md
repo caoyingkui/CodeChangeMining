@@ -6,7 +6,7 @@
 
 There are representations of 22 syntactic types of statements.
 
-In SCMiner, each statement is represented by a vector with various dimensions. The following parts of this file is used to decribe the details of these representations.
+In S2Miner, each statement is represented by a vector with various dimensions. The following parts of this file is used to decribe the details of these representations.
 
 Among these representations, there are 3 common features: Type, OP, Parent
 
